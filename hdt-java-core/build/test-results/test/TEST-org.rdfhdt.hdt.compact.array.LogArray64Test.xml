@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.rdfhdt.hdt.compact.array.LogArray64Test" tests="52" skipped="0" failures="0" errors="0" timestamp="2017-03-24T07:53:39" hostname="ssb13006" time="0.677">
+  <properties/>
+  <testcase name="testGetNumberOfElements[0]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.004"/>
+  <testcase name="testLoadSave[0]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.005"/>
+  <testcase name="testGet[0]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.005"/>
+  <testcase name="testSet[0]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.053"/>
+  <testcase name="testGetNumberOfElements[1]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.002"/>
+  <testcase name="testLoadSave[1]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.004"/>
+  <testcase name="testGet[1]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.004"/>
+  <testcase name="testSet[1]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.056"/>
+  <testcase name="testGetNumberOfElements[2]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.001"/>
+  <testcase name="testLoadSave[2]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.002"/>
+  <testcase name="testGet[2]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.004"/>
+  <testcase name="testSet[2]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.047"/>
+  <testcase name="testGetNumberOfElements[3]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.0"/>
+  <testcase name="testLoadSave[3]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.002"/>
+  <testcase name="testGet[3]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.003"/>
+  <testcase name="testSet[3]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.049"/>
+  <testcase name="testGetNumberOfElements[4]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.001"/>
+  <testcase name="testLoadSave[4]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.002"/>
+  <testcase name="testGet[4]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.002"/>
+  <testcase name="testSet[4]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.043"/>
+  <testcase name="testGetNumberOfElements[5]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.0"/>
+  <testcase name="testLoadSave[5]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.003"/>
+  <testcase name="testGet[5]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.001"/>
+  <testcase name="testSet[5]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.044"/>
+  <testcase name="testGetNumberOfElements[6]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.0"/>
+  <testcase name="testLoadSave[6]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.003"/>
+  <testcase name="testGet[6]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.001"/>
+  <testcase name="testSet[6]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.043"/>
+  <testcase name="testGetNumberOfElements[7]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.0"/>
+  <testcase name="testLoadSave[7]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.001"/>
+  <testcase name="testGet[7]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.001"/>
+  <testcase name="testSet[7]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.043"/>
+  <testcase name="testGetNumberOfElements[8]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.001"/>
+  <testcase name="testLoadSave[8]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.002"/>
+  <testcase name="testGet[8]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.001"/>
+  <testcase name="testSet[8]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.044"/>
+  <testcase name="testGetNumberOfElements[9]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.0"/>
+  <testcase name="testLoadSave[9]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.002"/>
+  <testcase name="testGet[9]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.001"/>
+  <testcase name="testSet[9]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.042"/>
+  <testcase name="testGetNumberOfElements[10]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.001"/>
+  <testcase name="testLoadSave[10]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.002"/>
+  <testcase name="testGet[10]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.001"/>
+  <testcase name="testSet[10]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.043"/>
+  <testcase name="testGetNumberOfElements[11]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.0"/>
+  <testcase name="testLoadSave[11]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.002"/>
+  <testcase name="testGet[11]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.002"/>
+  <testcase name="testSet[11]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.043"/>
+  <testcase name="testGetNumberOfElements[12]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.0"/>
+  <testcase name="testLoadSave[12]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.003"/>
+  <testcase name="testGet[12]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.001"/>
+  <testcase name="testSet[12]" classname="org.rdfhdt.hdt.compact.array.LogArray64Test" time="0.042"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

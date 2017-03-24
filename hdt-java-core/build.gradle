@@ -1,0 +1,12 @@
+
+description = 'HDT Java Core'
+dependencies {
+    compile group: 'junit', name: 'junit', version:'4.11'
+    compile group: 'org.apache.jena', name: 'jena-arq', version:'3.0.0'
+    compile group: 'com.beust', name: 'jcommander', version:'1.32'
+  compile project(':hdt-api')
+    compile group: 'org.apache.commons', name: 'commons-compress', version:'1.10'
+    compile group: 'org.apache.jena', name: 'jena-core', version:'3.0.1'
+    compile group: 'org.apache.jena', name: 'jena-base', version:'3.0.1'
+    compile group: 'pl.edu.icm', name: 'JLargeArrays', version:'1.6'
+}

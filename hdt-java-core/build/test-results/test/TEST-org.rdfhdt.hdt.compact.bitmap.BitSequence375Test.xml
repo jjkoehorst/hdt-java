@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" tests="20" skipped="0" failures="0" errors="0" timestamp="2017-03-24T07:53:40" hostname="ssb13006" time="0.537">
+  <properties/>
+  <testcase name="testCountZeros" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.005"/>
+  <testcase name="testLoadSave" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.003"/>
+  <testcase name="testBitutilSelect0" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.0"/>
+  <testcase name="testRank1" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.002"/>
+  <testcase name="testSize" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.0"/>
+  <testcase name="testAccess" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.004"/>
+  <testcase name="testSelect0" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.178"/>
+  <testcase name="testSelect1" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.004"/>
+  <testcase name="testNumbits" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.0"/>
+  <testcase name="testCountOnes" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.001"/>
+  <testcase name="testCountZeros" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.001"/>
+  <testcase name="testLoadSave" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.002"/>
+  <testcase name="testBitutilSelect0" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.0"/>
+  <testcase name="testRank1" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.003"/>
+  <testcase name="testSize" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.0"/>
+  <testcase name="testAccess" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.002"/>
+  <testcase name="testSelect0" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.174"/>
+  <testcase name="testSelect1" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.002"/>
+  <testcase name="testNumbits" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.0"/>
+  <testcase name="testCountOnes" classname="org.rdfhdt.hdt.compact.bitmap.BitSequence375Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

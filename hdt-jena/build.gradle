@@ -1,0 +1,10 @@
+
+description = 'HDT Jena'
+dependencies {
+  compile project(':hdt-java-core')
+    compile group: 'org.apache.jena', name: 'jena-core', version:'3.0.1'
+    compile group: 'org.apache.jena', name: 'jena-arq', version:'3.0.1'
+    compile group: 'junit', name: 'junit', version:'4.11'
+    compile group: 'org.apache.jena', name: 'jena-base', version:'3.0.1'
+  compile project(':hdt-api')
+}

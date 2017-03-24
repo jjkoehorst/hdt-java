@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.rdfhdt.hdt.util.io.IOUtilTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-03-24T07:53:41" hostname="ssb13006" time="0.167">
+  <properties/>
+  <testcase name="testWriteInt" classname="org.rdfhdt.hdt.util.io.IOUtilTest" time="0.0"/>
+  <testcase name="testWriteLong" classname="org.rdfhdt.hdt.util.io.IOUtilTest" time="0.0"/>
+  <testcase name="testWriteInt" classname="org.rdfhdt.hdt.util.io.IOUtilTest" time="0.0"/>
+  <testcase name="testWriteLong" classname="org.rdfhdt.hdt.util.io.IOUtilTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

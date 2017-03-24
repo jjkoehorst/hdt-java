@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.rdfhdt.hdt.compact.integer.VByteTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-03-24T07:53:40" hostname="ssb13006" time="0.337">
+  <properties/>
+  <testcase name="testEOF" classname="org.rdfhdt.hdt.compact.integer.VByteTest" time="0.0"/>
+  <testcase name="testMoreCharactersThanNeeded" classname="org.rdfhdt.hdt.compact.integer.VByteTest" time="0.001"/>
+  <testcase name="testMaxSize" classname="org.rdfhdt.hdt.compact.integer.VByteTest" time="0.0"/>
+  <testcase name="testEOF" classname="org.rdfhdt.hdt.compact.integer.VByteTest" time="0.0"/>
+  <testcase name="testMoreCharactersThanNeeded" classname="org.rdfhdt.hdt.compact.integer.VByteTest" time="0.0"/>
+  <testcase name="testMaxSize" classname="org.rdfhdt.hdt.compact.integer.VByteTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

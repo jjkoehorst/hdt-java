@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.rdfhdt.hdtjena.solver.OptimizedCountTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-03-24T07:53:42" hostname="ssb13006" time="0.439">
+  <properties/>
+  <testcase name="testTriplePattern" classname="org.rdfhdt.hdtjena.solver.OptimizedCountTest" time="0.399"/>
+  <testcase name="testGraph" classname="org.rdfhdt.hdtjena.solver.OptimizedCountTest" time="0.002"/>
+  <testcase name="testWrong" classname="org.rdfhdt.hdtjena.solver.OptimizedCountTest" time="0.033"/>
+  <testcase name="testAllTriples" classname="org.rdfhdt.hdtjena.solver.OptimizedCountTest" time="0.003"/>
+  <testcase name="testDictionary" classname="org.rdfhdt.hdtjena.solver.OptimizedCountTest" time="0.002"/>
+  <system-out><![CDATA[File converted in: 20 ms 196 us
+SELECT COUNT(*) { <hello> ?p ?o }
+File converted in: 589 us
+SELECT COUNT(*) { graph <hello> { ?s ?p ?o }}
+File converted in: 503 us
+SELECT * { ?s ?p ?o }
+SELECT COUNT(distinct ?p) { <hello> ?p ?o }
+SELECT COUNT(distinct ?NO) { ?s ?p ?o }
+SELECT COUNT(distinct ?o) { ?s ?SAME ?SAME }
+SELECT COUNT(*) { ?s ?p ?o FILTER (isLiteral(?o))}
+SELECT COUNT(*) { ?s ?p ?o } HAVING(?o>0)
+SELECT COUNT(*) { ?s ?p ?o } LIMIT 0
+SELECT COUNT(*) { ?s ?p ?o } OFFSET 10
+File converted in: 517 us
+SELECT COUNT(*) { ?s ?p ?o }
+SELECT COUNT(?s) { ?s ?p ?o }
+SELECT COUNT(?p) { ?s ?p ?o }
+SELECT COUNT(?o) { ?s ?p ?o }
+File converted in: 460 us
+SELECT COUNT(distinct ?s) WHERE { ?s ?p ?o }
+SELECT COUNT(distinct ?p) { ?s ?p ?o }
+SELECT COUNT(distinct ?o) { ?s ?p ?o }
+]]></system-out>
+  <system-err><![CDATA[log4j:WARN No appenders could be found for logger (Jena).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+]]></system-err>
+</testsuite>

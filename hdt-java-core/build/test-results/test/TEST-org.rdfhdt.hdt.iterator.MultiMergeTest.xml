@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.rdfhdt.hdt.iterator.MultiMergeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-03-24T07:53:40" hostname="ssb13006" time="0.028">
+  <properties/>
+  <testcase name="testCase" classname="org.rdfhdt.hdt.iterator.MultiMergeTest" time="0.028"/>
+  <system-out><![CDATA[1
+2
+4
+5
+6
+7
+9
+12
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

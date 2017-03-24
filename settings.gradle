@@ -1,0 +1,14 @@
+rootProject.name = 'hdt-java-parent'
+include ':hdt-api'
+include ':hdt-java-core'
+include ':hdt-java-cli'
+include ':hdt-jena'
+include ':hdt-java-package'
+include ':hdt-fuseki'
+
+project(':hdt-api').projectDir = "$rootDir/hdt-api" as File
+project(':hdt-java-core').projectDir = "$rootDir/hdt-java-core" as File
+project(':hdt-java-cli').projectDir = "$rootDir/hdt-java-cli" as File
+project(':hdt-jena').projectDir = "$rootDir/hdt-jena" as File
+project(':hdt-java-package').projectDir = "$rootDir/hdt-java-package" as File
+project(':hdt-fuseki').projectDir = "$rootDir/hdt-fuseki" as File

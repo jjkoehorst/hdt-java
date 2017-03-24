@@ -1,0 +1,6 @@
+
+description = 'HDT Java Command line Tools'
+dependencies {
+  compile project(':hdt-java-core')
+  compile project(':hdt-api')
+}

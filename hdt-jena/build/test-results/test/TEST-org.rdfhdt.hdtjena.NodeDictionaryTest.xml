@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.rdfhdt.hdtjena.NodeDictionaryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-03-24T07:53:42" hostname="ssb13006" time="0.346">
+  <properties/>
+  <testcase name="testTyped" classname="org.rdfhdt.hdtjena.NodeDictionaryTest" time="0.175"/>
+  <testcase name="testLang" classname="org.rdfhdt.hdtjena.NodeDictionaryTest" time="0.17"/>
+  <testcase name="testNormal" classname="org.rdfhdt.hdtjena.NodeDictionaryTest" time="0.001"/>
+  <system-out><![CDATA[
+"2"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
+"Hello"@en
+"Hello"
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
